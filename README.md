@@ -6,3 +6,5 @@ sudo apt-get install python3-setuptools <br>
 pip3 install --upgrade pip<br>
 pip3 install sip <br>
 pip3 install bauh <br>
+sudo python3 -m pip install -U pip bauh
+
